@@ -1,0 +1,1 @@
+The Weather App is a simple and user-friendly application that provides real-time weather updates for any city across the globe. It fetches live data from reliable weather APIs to display essential details such as temperature, humidity, wind speed, and overall conditions.
